@@ -2,4 +2,4 @@
 
 Aprendiendo el manejo de **git y github**
 
-Agregando mas contenido al `README.MD`
+Agregando mas contenido al `README.md`
