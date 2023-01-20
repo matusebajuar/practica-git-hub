@@ -1,3 +1,2 @@
 *.exe
-commits.txt
-graph.txt
+*.log
